@@ -5,3 +5,14 @@
 32679 -> 6
 */
 
+Console.WriteLine("Enter a  number");
+
+string? NumberText = Console.ReadLine();
+
+if (NumberText == null || NumberText.Length < 3)   
+{
+    Console.WriteLine("there is no third digit");
+    Environment.Exit(1);
+}
+
+Console.WriteLine(NumberText?[2]);
