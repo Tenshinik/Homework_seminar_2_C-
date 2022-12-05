@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\bin\Debug\net7.0\zadacha003.exe
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\bin\Debug\net7.0\zadacha003.deps.json
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\bin\Debug\net7.0\zadacha003.runtimeconfig.json
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\bin\Debug\net7.0\zadacha003.dll
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\bin\Debug\net7.0\zadacha003.pdb
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.dll
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\refint\zadacha003.dll
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.pdb
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\zadacha003.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ АЙТИ\C# lectur\semenar_2_Homework\Homework002\zadacha003\obj\Debug\net7.0\ref\zadacha003.dll
